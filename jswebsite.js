@@ -1,7 +1,7 @@
 // this will be the start of the project
 // header 
     // inside the header
-    // navigation bar 
+    // navigation bar (stays at the top of the webpage never disappears)(though when scrolling down it can disappear but scrolling up will allow it to reappear)
         // Home
         // photo of the day
         // girls
@@ -21,4 +21,5 @@
 
     
 //footer 
+
 
